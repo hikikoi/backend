@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "username": "John Doe",
+    "password": "5333",
+    "isAdmin": false
+  },
+  {
+    "id": 2,
+    "username": "Hiki Koi",
+    "password": "7777777",
+    "isAdmin": true,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJIaWtpIEtvaSIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE2ODY5ODEzOTl9.wi68-NN9RxUcitTPAnJsITP_6RDVjdeeVTXIB0bMrLo"
+  }
+]

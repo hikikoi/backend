@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Cola",
+        "market":1
+    },
+    {
+        "id":"2",
+        "title":"Pepsi",
+        "market":2
+    },
+    {
+        "id":3,
+        "title":"Nachos",
+        "market":1
+    },
+    {
+        "id":4,
+        "title":"Cheers",
+        "market":2
+    },
+    {
+        "id":5,
+        "title":"Lays",
+        "market":1
+    }
+]

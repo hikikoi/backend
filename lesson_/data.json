@@ -1,0 +1,78 @@
+{
+  "philosophers": [
+    {
+      "id": 1,
+      "name": "Mirzo Ulug'bek",
+      "birth": "1394",
+      "death": "1449",
+      "profession": "ilmxon, matematik va astronom"
+    },
+    {
+      "id": 2,
+      "name": "Ali-Shir Nava'i",
+      "birth": "1441",
+      "death": "1501",
+      "profession": "shoir, yozuvchi, fikr-muhandis"
+    },
+    {
+      "id": 3,
+      "name": "Abdurauf Fitrat",
+      "birth": "1886",
+      "death": "1938",
+      "profession": "yozuvchi, fikr-muhandis, ijtimoiy faoliyatchi"
+    }
+  ],
+  "cultural_figures": [
+    {
+      "id": 1,
+      "name": "Hamid Alimjan",
+      "birth": "1875",
+      "death": "1917",
+      "profession": "shoir, yozuvchi"
+    },
+    {
+      "id": 2,
+      "name": "Oybek",
+      "birth": "1445",
+      "death": "1505",
+      "profession": "yozuvchi, adib"
+    },
+    {
+      "id": 3,
+      "name": "Fitrat Usmonov",
+      "birth": "1922",
+      "death": "1985",
+      "profession": "rassom, adib"
+    }
+  ],
+  "scholars": [
+    {
+      "id": 1,
+      "name": "Abu Rayhon Beruniy",
+      "birth": "973",
+      "death": "1048",
+      "profession": "ilmxon, olim, mutafakkir"
+    },
+    {
+      "id": 2,
+      "name": "Zakhiriddin Muhammad Bobur",
+      "birth": "1483",
+      "death": "1530",
+      "profession": "davlat boshqaruvi, yozuvchi"
+    },
+    {
+      "id": 3,
+      "name": "Muhammad Yusuf",
+      "birth": "1758",
+      "death": "1824",
+      "profession": "ilmxon, muhandis"
+    },
+    {
+      "id": 4,
+      "name": "Abu Abdallah Muhammad ibn Musa al-Khwarizmi",
+      "birth": "780",
+      "death": "850",
+      "profession": "mathematician, astronomer and geographer"
+    }
+  ]
+}

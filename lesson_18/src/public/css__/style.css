@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(137, 161, 205);
+}
+
+.blogWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    color: #fff;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.postsWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0 20px;
+}
+
+.user {
+    margin-left: 30px;
+}
+
+.user h3 {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.post {
+    width: 1000px;
+    background-color: #b7ecff67;
+    border-radius: 10px;
+    padding: 20px 0;
+    padding-top: 0;
+    margin: 20px 0;
+}
+
+.post img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    object-fit: cover;
+}
+
+.post p {
+    margin: 30px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form input,
+form textarea,
+form button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+form textarea {
+    height: 100px;
+}
+
+form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}

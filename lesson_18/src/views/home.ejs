@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Blog.</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <h1>Blog.</h1>
+  <section class="blogWrapper">
+    <form action="/submit" method="post" enctype="multipart/form-data">
+      <input type="text" name="name" placeholder="Name" required>
+      <input type="password" name="password" placeholder="Password" required>
+      <input type="file" name="postImages" accept="image/*" multiple required>
+      <textarea name="postText" placeholder="Post text" required></textarea>
+      <button type="submit">Send</button>
+    </form>
+    <div class="postsWrapper">
+      <% posts.forEach(post=> { %>
+        <div class="post">
+          <% post.images.forEach(image=> { %>
+            <img src="<%= '/uploads/' + image %>" alt="post image">
+            <% }) %>
+              <% users.filter(user => user.id === post.userId).forEach(user=> { %>
+                <div class="usersPost">
+                  <div class="user">
+                    <h3>User: <%= user.name %>
+                    </h3>
+                  </div>
+                  <% }) %>
+                    <p>
+                      <%= post.text %>
+                    </p>
+                </div>
+              </div>
+              <% }) %>
+    </div>
+  </section>
+</body>
+
+</html>
