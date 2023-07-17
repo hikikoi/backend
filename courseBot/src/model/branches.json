@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Chilonzor filiali",
+      "city":"Toshkent",
+      "rules":"Salam balam",
+      "phone":"0099",
+      "email":"me.com",
+      "address":"Uzbekistan"
+    },
+    {
+      "id": 2,
+      "title": "Xadra filiali",
+      "city":"Toshkent",
+      "rules":"Balam salam",
+      "phone":"0099",
+      "email":"me.com",
+      "address":"Uzbekistan"
+    },
+    {
+      "id": 3,
+      "title": "Farg'ona filiali",
+      "city":"Farg'ona",
+      "rules":"Salam balam",
+      "phone":"0099",
+      "email":"me.com",
+      "address":"Uzbekistan"
+    },
+    {
+      "id": 4,
+      "title": "Farg'ona filiali",
+      "city":"Farg'ona",
+      "rules":"Balam salam",
+      "phone":"0099",
+      "email":"me.com",
+      "address":"Uzbekistan"
+    },
+    {
+      "id": 5,
+      "title": "Toshkent filiali",
+      "city":"Toshkent",
+      "rules":"Salam balam",
+      "phone":"0099",
+      "email":"me.com",
+      "address":"Uzbekistan"
+    },
+    {
+      "id": 6,
+      "title": "Farg'ona filiali",
+      "city":"Farg'ona",
+      "rules":"Balam salam",
+      "phone":"0099",
+      "email":"me.com",
+      "address":"Uzbekistan"
+    }
+  ]
+  

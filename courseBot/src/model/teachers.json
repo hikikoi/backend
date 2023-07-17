@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "branchId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "branchId": 1
+    },
+    {
+      "id": 3,
+      "name": "David Johnson",
+      "branchId": 2
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "branchId": 2
+    }
+  ]
+  

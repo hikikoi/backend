@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Курс программирования на JavaScript",
+      "shortTitle":"JavaScript",
+      "image":"src/assets/images/course_image-1.jpg",
+      "price": 100,
+      "description": "Этот курс предназначен для изучения программирования на языке JavaScript. Вы освоите основы языка и научитесь разрабатывать веб-приложения с использованием современных фреймворков.",
+      "languages": ["JavaScript"],
+      "teacherId": 1
+    },
+    {
+      "id": 2,
+      "title": "Курс веб-разработки",
+      "shortTitle":"Веб-разработка",
+      "image":"src/assets/images/course_image-1.jpg",
+      "price": 150,
+      "description": "Этот курс предназначен для изучения веб-разработки с использованием HTML, CSS и JavaScript. Вы научитесь создавать статические и динамические веб-страницы, работать с базами данных и разрабатывать современные веб-приложения.",
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "teacherId": 2
+    },
+    {
+      "id": 3,
+      "title": "Курс мобильной разработки",
+      "shortTitle":"Моб. разработка",
+      "image":"src/assets/images/course_image-1.jpg",
+      "price": 200,
+      "description": "Этот курс предназначен для изучения разработки мобильных приложений для iOS и Android. Вы научитесь создавать мобильные приложения с использованием языков программирования Swift и Kotlin.",
+      "languages": ["Swift", "Kotlin"],
+      "teacherId": 3
+    }
+  ]
+  
